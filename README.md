@@ -1,3 +1,3 @@
-# Actividad-pr-ctica-obligatoria-Codo a codo
+# Codo a codo Segundo Ejercicio
 Chavez Hernan
 
